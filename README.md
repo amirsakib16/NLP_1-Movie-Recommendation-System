@@ -8,10 +8,10 @@
 <img src="https://img.shields.io/badge/Animation-60fps-00FF00?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Design-Award%20Winning-FFD700?style=for-the-badge" />
 <br/>
-<a href="https://movierecnlp.onrender.com/" target="_blank">
+<a href="https://alpoweredmovienlp.onrender.com/" target="_blank">
   <img src="https://img.shields.io/badge/LIVE_DEMO-Experience_Now-FF0000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Live Demo" height="50"/>
 </a>
-<a href="https://movierecnlp.onrender.com/" target="_blank">
+<a href="https://alpoweredmovienlp.onrender.com/" target="_blank">
   <img src="https://img.shields.io/badge/SEE_IT_IN_ACTION-Click_Here-CC0000?style=for-the-badge&labelColor=1a0000" alt="See Live" height="50"/>
 </a>
 <br/>
